@@ -1,75 +1,21 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-  <h1>Hey 👋, I'm Cristian Palacio</h1>
-  <h3>Full Stack Web Developer | Colombia 🇨🇴</h3>
-</div>
+# 💫About Me :
+🔭 Working with Vue.js, Laravel, MySQL, and Docker on real-world full stack applications.  
+👯 Open to collaborating on scalable, clean-code web projects.  
+🌱 Strengthening my backend skills while expanding knowledge in React, Node.js, and Java.  
+💬 Ask me about full stack development, APIs, databases, and problem-solving.
+
+
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cristiancamilo.palacionaranjo.9/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cpalacio.skr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristian-palacio-722a4924a/) 
+
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat&logo=nuxt.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=palacio9876&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=palacio9876&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-
-## 🚀 About Me
-
-I’m a passionate **full stack web developer** who enjoys turning ideas into real, useful products.  
-I love digging deep into problems, understanding the *why*, and building solutions that actually make sense.
-
-- 🔍 Problem solver by nature  
-- 🧠 Curious mind, always learning  
-- 💡 I believe good code is clean, simple, and scalable  
-
-📫 **Reach me at:**  
-👉 **cristiancamilopala@gmail.com**
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ React.js  
-- ☕ Java  
-- 🌐 Node.js  
-
-Because the future belongs to those who never stop learning.
-
----
-
-## 🔨 Tech Stack & Tools
-
-<div align="left">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=palacio9876&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=palacio9876&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palacio9876&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 Let’s Build Something Together
-
-If you’re interested in:
-- collaborating on projects  
-- talking about web development  
-- or just sharing ideas  
-
-💬 **Feel free to reach out.**  
-Good code is better when it’s shared.
+[![](https://visitcount.itsvg.in/api?id=palacio9876&icon=0&color=4)](https://visitcount.itsvg.in)
